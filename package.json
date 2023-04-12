@@ -1,0 +1,56 @@
+{
+    "name": "productivity-plus",
+    "displayName": "Productivity Plus",
+    "author": "Fadi Hania - Coddict.co",
+    "icon": "logo/productivity-plus.png",
+    "publisher": "coddictco",
+    "homepage": "https://coddict.co",
+    "description": "Useful productivity extensions for Web development",
+    "version": "1.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "aaron-bond.better-comments",
+        "albert.TabOut",
+        "alefragnani.Bookmarks",
+        "ardisaurus.gitflow-actions-sidebar",
+        "christian-kohler.path-intellisense",
+        "devine-davies.make-hidden",
+        "eamodio.gitlens",
+        "EditorConfig.EditorConfig",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-rename-tag",
+        "glenn2223.live-sass",
+        "Gruntfuggly.todo-tree",
+        "huibizhang.codesnap-plus",
+        "humao.rest-client",
+        "jenkey2011.string-highlight",
+        "maptz.camelcasenavigation",
+        "mhutchie.git-graph",
+        "mrmlnc.vscode-duplicate",
+        "ms-azuretools.vscode-docker",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "quicktype.quicktype",
+        "ritwickdey.LiveServer",
+        "shd101wyy.markdown-preview-enhanced",
+        "streetsidesoftware.code-spell-checker",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "vsls-contrib.gistfs",
+        "WallabyJs.console-ninja",
+        "wmaurer.change-case",
+        "wmontalvo.vsc-meta-snippet",
+        "ybaumes.highlight-trailing-white-spaces",
+        "yzhang.markdown-all-in-one",
+        "Zignd.html-css-class-completion"
+    ],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/codditco/productivity-plus"
+    }
+}
