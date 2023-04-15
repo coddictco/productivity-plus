@@ -6,7 +6,7 @@
     "publisher": "coddictco",
     "homepage": "https://coddict.co",
     "description": "Useful productivity extensions for Web development",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -29,6 +29,7 @@
         "huibizhang.codesnap-plus",
         "humao.rest-client",
         "jenkey2011.string-highlight",
+        "jkjustjoshing.vscode-text-pastry",
         "maptz.camelcasenavigation",
         "mhutchie.git-graph",
         "mrmlnc.vscode-duplicate",

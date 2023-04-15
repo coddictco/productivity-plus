@@ -36,4 +36,9 @@ It includes the following extensions:
 - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 - [string-highlight](https://marketplace.visualstudio.com/items?itemName=Jenkey2011.string-highlight)
 - [TabOut](https://marketplace.visualstudio.com/items?itemName=albert.TabOut)
+- [Text Pastry](https://marketplace.visualstudio.com/items?itemName=jkjustjoshing.vscode-text-pastry)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+
+---
+#### v1.1.0
+*Add new extension, **Text Pastry***
