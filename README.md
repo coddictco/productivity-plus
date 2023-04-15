@@ -39,6 +39,7 @@ It includes the following extensions:
 - [TabOut](https://marketplace.visualstudio.com/items?itemName=albert.TabOut)
 - [Text Pastry](https://marketplace.visualstudio.com/items?itemName=jkjustjoshing.vscode-text-pastry)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+- [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
 
 ---
 #### v1.1.0
@@ -46,3 +47,6 @@ It includes the following extensions:
 
 #### v1.2.0
 *Add new extension, **Multiple cursor case preserve***
+
+#### v1.3.0
+*Add new extension, **Turbo Console Log***

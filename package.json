@@ -6,7 +6,7 @@
     "publisher": "coddictco",
     "homepage": "https://coddict.co",
     "description": "Useful productivity extensions for Web development",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -19,6 +19,7 @@
         "alefragnani.Bookmarks",
         "ardisaurus.gitflow-actions-sidebar",
         "Cardinal90.multi-cursor-case-preserve",
+        "ChakrounAnas.turbo-console-log",
         "christian-kohler.path-intellisense",
         "devine-davies.make-hidden",
         "eamodio.gitlens",
