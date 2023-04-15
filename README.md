@@ -29,6 +29,7 @@ It includes the following extensions:
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 - [Meta-snippet for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=wmontalvo.vsc-meta-snippet)
+- [Multiple cursor case preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)
 - [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
@@ -42,3 +43,6 @@ It includes the following extensions:
 ---
 #### v1.1.0
 *Add new extension, **Text Pastry***
+
+#### v1.2.0
+*Add new extension, **Multiple cursor case preserve***
