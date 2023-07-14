@@ -38,6 +38,7 @@ It includes the following extensions:
 - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 - [string-highlight](https://marketplace.visualstudio.com/items?itemName=Jenkey2011.string-highlight)
 - [TabOut](https://marketplace.visualstudio.com/items?itemName=albert.TabOut)
+- [Task Runner](https://marketplace.visualstudio.com/items?itemName=SanaAjani.taskrunnercode)
 - [Text Pastry](https://marketplace.visualstudio.com/items?itemName=jkjustjoshing.vscode-text-pastry)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
