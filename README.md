@@ -33,6 +33,7 @@ It includes the following extensions:
 - [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [PWABuilder Studio](https://marketplace.visualstudio.com/items?itemName=PWABuilder.pwa-studio)
 - [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
 - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 - [string-highlight](https://marketplace.visualstudio.com/items?itemName=Jenkey2011.string-highlight)

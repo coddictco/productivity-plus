@@ -6,7 +6,7 @@
     "publisher": "coddictco",
     "homepage": "https://coddict.co",
     "description": "Useful productivity extensions for Web development",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -38,6 +38,7 @@
         "ms-azuretools.vscode-docker",
         "ms-kubernetes-tools.vscode-kubernetes-tools",
         "ms-vscode-remote.vscode-remote-extensionpack",
+        "PWABuilder.pwa-studio",
         "quicktype.quicktype",
         "ritwickdey.LiveServer",
         "shd101wyy.markdown-preview-enhanced",
